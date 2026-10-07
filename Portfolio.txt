@@ -1,0 +1,10 @@
+My Portfolio should be available at https://polyedu.ca/portfolio
+Otherwise, you can find my channel at : https://www.youtube.com/@mgfsdev
+
+Here are a list of projects I've done (completed or not):
+-Polyedu.org (now PolyEdu.ca): A non-profit website that posts videos and tutorials on high-school and cegep content. (Structure is in Python, with Django) (There's a project journal and project report that I've submitted publicly, could be useful here)
+-PolyEdu Mobile: A mobile app version of PolyEdu.org, coded with React, TypeScript & React Native.
+-MGFsDev: A YouTube Channel & Twitch Streaming channel dedicated to game dev (with or without AI assistance). (Games done in Unity & C#)
+-The Manifesto: A puzzle, adventure & 2D fighting game based off a light novel I'm writing. (Built with Unity)
+-FoodLens: A food-recognition software for making custom recipes based on the content of your fridge. (ML Structure in Python & TensorFlow)
+- Home Synology NAS Network: I built my NAS infrastructure with Docker (and many other apps) in order to be able to have my very own cloud with 16TB of storage. Its purpose is to be able to host my own websites and gather all my projects in one place.
